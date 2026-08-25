@@ -1,4 +1,4 @@
-package atividade06;
+package atividade6;
 
 public class Titular {
     private String nome;
